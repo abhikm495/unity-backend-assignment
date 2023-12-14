@@ -6,7 +6,7 @@ npm start {runs the project}
 
 please make sure to create a .env file and add the following variables:
 
-MONGO_URL=mongodb+srv://<username>:<password>@cluster0.l4dludr.mongodb.net/ecommerceunity  {provide your mongoDB database URL here,replace username with your username and password with its password}
+MONGO_URL=mongodb+srv://{username}:{password}@cluster0.l4dludr.mongodb.net/ecommerceunity  {provide your mongoDB database URL here,replace username with your username and password with its password}
 
 PORT=8080
 

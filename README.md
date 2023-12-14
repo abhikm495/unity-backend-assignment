@@ -1,6 +1,7 @@
 Instructions to run the project:
 
 npm i {installs all pacakges}
+
 npm start {runs the project}
 please make sure to create a .env file and add the following variables:
 

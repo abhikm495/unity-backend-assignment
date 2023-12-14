@@ -5,6 +5,7 @@ please make sure to create a .env file and add the following variables:
 
 MONGO_URL=mongodb+srv://username:<password>@cluster0.l4dludr.mongodb.net/ecommerceunity  {provide you mongoDB cluster URL here}
 PORT=8080
+
 JWT_SECRET=This is the secret password
 
 Instruction to test all the routes,you can use https://www.postman.com/ to test all the routes locally

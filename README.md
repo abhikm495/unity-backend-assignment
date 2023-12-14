@@ -13,7 +13,7 @@ Instruction to test all the routes,you can use https://www.postman.com/ to test 
 
 Below are all the APIs:
 
-Auth APIs:
+#**Auth APIs:**
 1) Register-Post Method (http://localhost:8080/api/auth/register)
 
   make sure to provide "name","email","password", and "role" ,if a user wants to register as a seller,
@@ -41,7 +41,7 @@ Example-{
     "password":"buyer1"
 }
 
-APIs for buyers:
+#**APIs for buyers:**
 
 1) List of sellers-Get Method (http://localhost:8080/api/buyer/list-of-sellers)
 
@@ -61,7 +61,7 @@ Example-{
     ]
 }
 
-APIs for sellers
+#**APIs for sellers**
 
 1)Create Catalog-Post Method (http://localhost:8080/api/seller/create-catalog)
 
